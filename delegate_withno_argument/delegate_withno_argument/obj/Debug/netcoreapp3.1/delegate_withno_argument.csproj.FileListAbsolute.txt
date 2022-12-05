@@ -1,0 +1,14 @@
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.exe
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.deps.json
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.runtimeconfig.json
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.runtimeconfig.dev.json
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.dll
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\bin\Debug\netcoreapp3.1\delegate_withno_argument.pdb
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.csproj.AssemblyReference.cache
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.AssemblyInfoInputs.cache
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.AssemblyInfo.cs
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.csproj.CoreCompileInputs.cache
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.dll
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.pdb
+C:\Users\nandagopal.rn\source\repos\delegate_withno_argument\delegate_withno_argument\obj\Debug\netcoreapp3.1\delegate_withno_argument.genruntimeconfig.cache

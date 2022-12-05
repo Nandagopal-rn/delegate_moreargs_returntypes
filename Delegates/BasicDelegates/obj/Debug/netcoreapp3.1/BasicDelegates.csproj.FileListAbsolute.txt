@@ -1,0 +1,14 @@
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.csproj.AssemblyReference.cache
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.AssemblyInfoInputs.cache
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.AssemblyInfo.cs
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.csproj.CoreCompileInputs.cache
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.exe
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.deps.json
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.runtimeconfig.json
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.runtimeconfig.dev.json
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.dll
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\bin\Debug\netcoreapp3.1\BasicDelegates.pdb
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.dll
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.pdb
+C:\Users\nandagopal.rn\source\repos\Delegates\BasicDelegates\obj\Debug\netcoreapp3.1\BasicDelegates.genruntimeconfig.cache

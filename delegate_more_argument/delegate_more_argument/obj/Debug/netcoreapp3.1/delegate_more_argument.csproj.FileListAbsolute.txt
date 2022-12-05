@@ -1,0 +1,14 @@
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.exe
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.deps.json
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.runtimeconfig.json
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.runtimeconfig.dev.json
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.dll
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\bin\Debug\netcoreapp3.1\delegate_more_argument.pdb
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.csproj.AssemblyReference.cache
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.AssemblyInfoInputs.cache
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.AssemblyInfo.cs
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.csproj.CoreCompileInputs.cache
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.dll
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.pdb
+C:\Users\nandagopal.rn\source\repos\delegate_more_argument\delegate_more_argument\obj\Debug\netcoreapp3.1\delegate_more_argument.genruntimeconfig.cache
